@@ -1,9 +1,11 @@
 import json
 
-with open('combine_network_filtered.cyjs') as data_file:
+with open('data/combine_network_filtered.cyjs') as data_file:
     data = json.load(data_file)
 
 #process node
+fout = file("node_pos.csv","w")
+fout.write("Node\tPosX\tPosY\n")
 output = {}
 output["nodes"]=[]
 nodes = data["nodes"]
@@ -15,11 +17,10 @@ for i in xrange(0,len(nodes)):
     output["nodes"][i]["position"]={}
     output["nodes"][i]["position"]["x"]=nodes[i]["position"]["x"]
     output["nodes"][i]["position"]["y"]=nodes[i]["position"]["y"]
+    fout.write(nodes[i]["data"]["name"]+"\t"+str(nodes[i]["position"]["x"])+"\t"+str(nodes[i]["position"]["y"])+"\n")
 
 edges = data["edges"]
 output["edges"]=[]
-print edges[0]["data"].keys()
-print edges[0]["data"]["shared_name"].split()[0]
 
 for i in xrange(0,len(edges)):
     infos = edges[i]["data"]["shared_name"].split()
