@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+	<title>Tes cytoscape</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/cytoscape.js"></script>
+	<script type="text/javascript" src="js/buildnetwork.js"></script>
+	<script type="text/javascript" src="js/utility.js"></script>
+</head>
+<body>
+	<div id="handle">
+	<button id="loadJSON">Load network</button>
+	<input type="file" id="logfc"/>
+	<button id="colorNode">ColorNode</button>
+	<button id="togglePath">Toggle non path</button>
+	<input type="file" id="path"/>
+	<span id="text"></span>
+	</div>
+	<div id="viewport"></div>
+	<script type="text/javascript" src="js/readJSON.js"></script>
+	<script type="text/javascript" src="js/logFCset.js"></script>
+</body>
+</html>
