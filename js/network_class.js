@@ -122,16 +122,3 @@ function filterNetwork(network){
 	});
 	return network;
 }
-
-// @staticmethod
-// def filterNetwork(network):
-// 	start = NetworkUtil.getStartNodesOfNetwork(network)
-// 	for n in start:
-// 		if network[n].nodeType=="protein":
-// 			NetworkUtil.removeNode(network,n)
-// 	end = NetworkUtil.getEndNodesOfNetwork(network)
-// 	for n in end:
-// 		if network[n].nodeType=="protein":
-// 			NetworkUtil.removeNode(network,n)
-//
-// 	return network
