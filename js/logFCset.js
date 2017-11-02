@@ -4,7 +4,7 @@ $('#logfc').on('change', function(e){
 	$("#text").text("loading...");
 	// Use it!
 	getFile(this.files[0]).then(
-		(response)=>readLogFCFile(response),
+		(response)=>readLogFCFile_multicol(response),
 		(error)=>getFileError(error)
 	);
 });
@@ -46,15 +46,45 @@ $('#colorNode').on('click', function(e){
 });
 
 function readLogFCFile(response){
-	logfc = parseCSV(response);
+	logfc = parseCSV_multicol(response);
 	logfc.forEach(function(s){
 		id=s.gene;
-		node = CytoscapeObj.$("#"+id);
+		s.logfc.forEach(function(logfc,idx){
+			node = CytoscapeObj.$("#"+idx+"_"+id);
 
-		if(node.data()==undefined){
+			if(node.data()==undefined){
+				return;
+			}
+
+			node.data()["logFC"] = logfc
+		});
+	});
+
+	CytoscapeObj.nodes().forEach(function(s){
+		if(s.data()["id"].indexOf("ENSG")!=-1 && s.data()["logFC"]==undefined){
+			if(!s.hasClass("hidden")){
+				s.toggleClass("hidden");
+			}
 			return;
 		}
-		node.data()["logFC"] = s.logfc
+	});
+
+	$("#text").text("");
+}
+
+function readLogFCFile_multicol(response){
+	logfc = parseCSV_multicol(response);
+	logfc.forEach(function(s){
+		id=s.gene;
+		s.logfc.forEach(function(logfc,idx){
+			node = CytoscapeObj.$("#"+idx+"_"+id);
+
+			if(node.data()==undefined){
+				return;
+			}
+
+			node.data()["logFC"] = logfc
+		});
 	});
 
 	CytoscapeObj.nodes().forEach(function(s){

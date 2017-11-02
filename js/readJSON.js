@@ -8,7 +8,7 @@ $('#loadJSON').on('click', function(e){
 		$("#text").text("loading...");
 		$("#logfc").val("");
 		$("#path").val("");
-		$.getJSON("http://localhost/WebNetwork/network.json",function(data){
+		$.getJSON("data/longest_diff_exp.json",function(data){
 			jsonData = data
 			buildCytoscape(jsonData);
 			enlargeNetwork(0.5);

@@ -108,3 +108,20 @@ function parseJSON(text){
 	}
 	return retval;
 }
+
+function parseCSV_multicol(text){
+	var retval = [];
+	var lines = text.split('\n');
+	lines.splice(0,1);
+	var delimiter = new RegExp('\t|;|,', 'g')
+	var i=0;
+	for(var line = 0; line < lines.length; line++){
+		var arr = lines[line].trim().split(delimiter);
+		if(arr[0]=="" ||  arr[1]==""){
+			continue;
+		}
+		var obj = {"gene":arr[0],"logfc":arr.slice(1,arr.size)}
+		retval.push(obj)
+	}
+	return retval;
+}

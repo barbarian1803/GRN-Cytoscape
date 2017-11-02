@@ -1,0 +1,3002 @@
+{
+    "nodes" : [ {
+      "data" : {
+        "id" : "283",
+        "shared_name" : "ENSG00000179456",
+        "name" : "ENSG00000179456",
+        "SUID" : 283,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -0.87544025
+      },
+      "position" : {
+        "x" : -4679.477516768338,
+        "y" : -10373.201065995074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "shared_name" : "ENSG00000169856",
+        "name" : "ENSG00000169856",
+        "SUID" : 279,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 1.531088942
+      },
+      "position" : {
+        "x" : 1199.4757472343667,
+        "y" : 2499.910932262055
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "shared_name" : "GCM1ELK3_01",
+        "name" : "GCM1ELK3_01",
+        "SUID" : 278,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1093.1295039058837,
+        "y" : 2267.0451414512972
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "shared_name" : "ENSG00000163064",
+        "name" : "ENSG00000163064",
+        "SUID" : 275,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 6.349014459
+      },
+      "position" : {
+        "x" : -4918.7565642574245,
+        "y" : -10897.149095319282
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "shared_name" : "ENSG00000120738",
+        "name" : "ENSG00000120738",
+        "SUID" : 272,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.190561144
+      },
+      "position" : {
+        "x" : -2203.6040392770915,
+        "y" : -4951.794373682156
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "shared_name" : "ENSG00000128710",
+        "name" : "ENSG00000128710",
+        "SUID" : 267,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 3.427548884
+      },
+      "position" : {
+        "x" : 3527.952965098027,
+        "y" : 7598.564836263455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "shared_name" : "ONECUT1_01",
+        "name" : "ONECUT1_01",
+        "SUID" : 265,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1305.8219905628498,
+        "y" : 2732.7767230728114
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "shared_name" : "ENSG00000110851",
+        "name" : "ENSG00000110851",
+        "SUID" : 258,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 1.055008067
+      },
+      "position" : {
+        "x" : 136.01331394953604,
+        "y" : 171.25302415448277
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "255",
+        "shared_name" : "ENSG00000169083",
+        "name" : "ENSG00000169083",
+        "SUID" : 255,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -3.51495229
+      },
+      "position" : {
+        "x" : -4799.117040512881,
+        "y" : -10635.175080657178
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "254",
+        "shared_name" : "SP5_Q2",
+        "name" : "SP5_Q2",
+        "SUID" : 254,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4829.026921449016,
+        "y" : -10700.668584322704
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "shared_name" : "ENSG00000204335",
+        "name" : "ENSG00000204335",
+        "SUID" : 247,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -0.666436077
+      },
+      "position" : {
+        "x" : -4858.936802385153,
+        "y" : -10766.16208798823
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "shared_name" : "EN1_08",
+        "name" : "EN1_08",
+        "SUID" : 246,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4888.846683321288,
+        "y" : -10831.655591653756
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "shared_name" : "ENSG00000125820",
+        "name" : "ENSG00000125820",
+        "SUID" : 242,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 3.919780885
+      },
+      "position" : {
+        "x" : -3905.1439325328206,
+        "y" : -8677.647026654255
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "shared_name" : "SIX3_Q6",
+        "name" : "SIX3_Q6",
+        "SUID" : 240,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3421.606721769545,
+        "y" : 7365.699045452699
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "shared_name" : "ENSG00000169131",
+        "name" : "ENSG00000169131",
+        "SUID" : 236,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 0.731276203
+      },
+      "position" : {
+        "x" : 1837.5532072052642,
+        "y" : 3897.1056771265958
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "shared_name" : "FOXJ2_01",
+        "name" : "FOXJ2_01",
+        "SUID" : 235,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1731.2069638767812,
+        "y" : 3664.239886315838
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "shared_name" : "KROX_Q6",
+        "name" : "KROX_Q6",
+        "SUID" : 233,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3220.0543704755405,
+        "y" : 6924.360957666433
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "shared_name" : "ENSG00000109906",
+        "name" : "ENSG00000109906",
+        "SUID" : 231,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -2.538656809
+      },
+      "position" : {
+        "x" : -3479.7589592188883,
+        "y" : -7746.18386341123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "shared_name" : "SC1_01",
+        "name" : "SC1_01",
+        "SUID" : 229,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 242.3595572780191,
+        "y" : 404.11881496524074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "shared_name" : "RXRA_05",
+        "name" : "RXRA_05",
+        "SUID" : 227,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -395.7179026928793,
+        "y" : -993.0759298993016
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "shared_name" : "ENSG00000186350",
+        "name" : "ENSG00000186350",
+        "SUID" : 226,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -2.908095605
+      },
+      "position" : {
+        "x" : -502.0641460213624,
+        "y" : -1225.9417207100578
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "shared_name" : "ENSG00000181449",
+        "name" : "ENSG00000181449",
+        "SUID" : 224,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 2.559800172
+      },
+      "position" : {
+        "x" : 1412.168233891332,
+        "y" : 2965.6425138835675
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "shared_name" : "MEIS1HOXA13_01",
+        "name" : "MEIS1HOXA13_01",
+        "SUID" : 222,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4709.387397704473,
+        "y" : -10438.6945696606
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "shared_name" : "ENSG00000163795",
+        "name" : "ENSG00000163795",
+        "SUID" : 219,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -0.917679016
+      },
+      "position" : {
+        "x" : -289.37165936439624,
+        "y" : -760.2101390885455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "shared_name" : "ENSG00000143355",
+        "name" : "ENSG00000143355",
+        "SUID" : 217,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -0.664692545
+      },
+      "position" : {
+        "x" : -1778.2190659631592,
+        "y" : -4020.3312104391316
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "shared_name" : "ENSG00000167157",
+        "name" : "ENSG00000167157",
+        "SUID" : 214,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 7.49138358
+      },
+      "position" : {
+        "x" : 4089.5940626765764,
+        "y" : 8828.387293982765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "shared_name" : "ENSG00000197928",
+        "name" : "ENSG00000197928",
+        "SUID" : 212,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 0.767471234
+      },
+      "position" : {
+        "x" : 2475.630667176161,
+        "y" : 5294.3004219911345
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "shared_name" : "ENSG00000165804",
+        "name" : "ENSG00000165804",
+        "SUID" : 210,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 1.472916236
+      },
+      "position" : {
+        "x" : 4326.532523516367,
+        "y" : 9173.88950362312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "shared_name" : "ALX3_04",
+        "name" : "ALX3_04",
+        "SUID" : 209,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4267.883054968743,
+        "y" : 9132.125406133995
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "shared_name" : "ENSG00000105722",
+        "name" : "ENSG00000105722",
+        "SUID" : 207,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -0.919161341
+      },
+      "position" : {
+        "x" : 348.7058006065022,
+        "y" : 636.9846057759987
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "shared_name" : "TEAD4DLX2_01",
+        "name" : "TEAD4DLX2_01",
+        "SUID" : 205,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -821.1028760068116,
+        "y" : -1924.5390931423262
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "shared_name" : "ENSG00000197905",
+        "name" : "ENSG00000197905",
+        "SUID" : 204,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 2.063946453
+      },
+      "position" : {
+        "x" : -927.4491193352947,
+        "y" : -2157.4048839530824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "shared_name" : "ENSG00000073861",
+        "name" : "ENSG00000073861",
+        "SUID" : 200,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.91629195
+      },
+      "position" : {
+        "x" : -3267.066472561922,
+        "y" : -7280.452281789718
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "shared_name" : "PLZF_02",
+        "name" : "PLZF_02",
+        "SUID" : 199,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3373.4127158904053,
+        "y" : -7513.318072600474
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "shared_name" : "CDX2_Q6",
+        "name" : "CDX2_Q6",
+        "SUID" : 197,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4059.6841817404406,
+        "y" : 8762.89379031724
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "shared_name" : "CRX_Q6",
+        "name" : "CRX_Q6",
+        "SUID" : 195,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2156.5919371907125,
+        "y" : 4595.703049558864
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "shared_name" : "HNF3_Q6_01",
+        "name" : "HNF3_Q6_01",
+        "SUID" : 192,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1884.5653092916423,
+        "y" : -4253.197001249888
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "shared_name" : "ENSG00000124813",
+        "name" : "ENSG00000124813",
+        "SUID" : 190,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 1.749357693
+      },
+      "position" : {
+        "x" : 2901.015640490092,
+        "y" : 6225.763585234161
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "shared_name" : "HTF_01",
+        "name" : "HTF_01",
+        "SUID" : 188,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4011.4901758613037,
+        "y" : -8910.51281746501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "shared_name" : "ENSG00000100219",
+        "name" : "ENSG00000100219",
+        "SUID" : 187,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -2.718754984
+      },
+      "position" : {
+        "x" : -4117.836419189787,
+        "y" : -9143.378608275767
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "shared_name" : "ENSG00000165556",
+        "name" : "ENSG00000165556",
+        "SUID" : 185,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 1.114735242
+      },
+      "position" : {
+        "x" : 3953.3379384119576,
+        "y" : 8530.027999506483
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "shared_name" : "SHOX2_01",
+        "name" : "SHOX2_01",
+        "SUID" : 183,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2948.027742576473,
+        "y" : -6581.854909357449
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "shared_name" : "ENSG00000137270",
+        "name" : "ENSG00000137270",
+        "SUID" : 181,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 1.439519407
+      },
+      "position" : {
+        "x" : 986.7832605774006,
+        "y" : 2034.1793506405393
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "shared_name" : "DMRT1_01",
+        "name" : "DMRT1_01",
+        "SUID" : 180,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 880.4370172489175,
+        "y" : 1801.3135598297831
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "shared_name" : "CDP_Q6_01",
+        "name" : "CDP_Q6_01",
+        "SUID" : 178,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 29.66707062105297,
+        "y" : -61.61276665627338
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "shared_name" : "BARX2_01",
+        "name" : "BARX2_01",
+        "SUID" : 176,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4179.323705484983,
+        "y" : 9024.86780497934
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "shared_name" : "ENSG00000043039",
+        "name" : "ENSG00000043039",
+        "SUID" : 174,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 5.333857665
+      },
+      "position" : {
+        "x" : 4149.413824548848,
+        "y" : 8959.374301313817
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "shared_name" : "S8_01",
+        "name" : "S8_01",
+        "SUID" : 173,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4119.503943612712,
+        "y" : 8893.880797648291
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "shared_name" : "PEG3_02",
+        "name" : "PEG3_02",
+        "SUID" : 171,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2309.9502826055746,
+        "y" : -5184.660164492912
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "shared_name" : "ENSG00000198300",
+        "name" : "ENSG00000198300",
+        "SUID" : 170,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -3.003812159
+      },
+      "position" : {
+        "x" : -2416.2965259340576,
+        "y" : -5417.5259553036685
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "shared_name" : "ENSG00000135625",
+        "name" : "ENSG00000135625",
+        "SUID" : 168,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 4.493068151
+      },
+      "position" : {
+        "x" : 3113.7081271470583,
+        "y" : 6691.495166855677
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "shared_name" : "AML_Q6",
+        "name" : "AML_Q6",
+        "SUID" : 167,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3007.3618838185753,
+        "y" : 6458.629376044919
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "shared_name" : "ENSG00000152977",
+        "name" : "ENSG00000152977",
+        "SUID" : 165,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.788705475
+      },
+      "position" : {
+        "x" : 4195.545516185317,
+        "y" : 9233.70926549539
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "shared_name" : "CART1_01",
+        "name" : "CART1_01",
+        "SUID" : 163,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3397.610827220787,
+        "y" : 7334.118262914448
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "shared_name" : "HOXB6_01",
+        "name" : "HOXB6_01",
+        "SUID" : 161,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1033.7953626637777,
+        "y" : -2390.2706747638385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "shared_name" : "ENSG00000025434",
+        "name" : "ENSG00000025434",
+        "SUID" : 159,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.471065718
+      },
+      "position" : {
+        "x" : 3350.3965083527814,
+        "y" : 7188.80753101544
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "shared_name" : "ENSG00000170608",
+        "name" : "ENSG00000170608",
+        "SUID" : 157,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -2.94857524
+      },
+      "position" : {
+        "x" : -1990.9115526201253,
+        "y" : -4486.062792060644
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "shared_name" : "EGR1_12",
+        "name" : "EGR1_12",
+        "SUID" : 156,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2097.2577959486084,
+        "y" : -4718.9285828714
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "shared_name" : "IRF1_05",
+        "name" : "IRF1_05",
+        "SUID" : 154,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3312.1993220107265,
+        "y" : 7216.559411343091
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "shared_name" : "ENSG00000125347",
+        "name" : "ENSG00000125347",
+        "SUID" : 153,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.260734655
+      },
+      "position" : {
+        "x" : 3326.4006138040236,
+        "y" : 7157.226748477189
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "shared_name" : "ENSG00000065970",
+        "name" : "ENSG00000065970",
+        "SUID" : 151,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 0.662342696
+      },
+      "position" : {
+        "x" : 1624.860720548298,
+        "y" : 3431.3740955050816
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "shared_name" : "SOX2_Q3",
+        "name" : "SOX2_Q3",
+        "SUID" : 150,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1518.514477219815,
+        "y" : 3198.5083046943255
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "shared_name" : "NKX22_02",
+        "name" : "NKX22_02",
+        "SUID" : 148,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3798.7976892043375,
+        "y" : -8444.781235843499
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "shared_name" : "ZBTB18_01",
+        "name" : "ZBTB18_01",
+        "SUID" : 146,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4649.567635832202,
+        "y" : -10307.707562329548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "shared_name" : "ENSG00000109132",
+        "name" : "ENSG00000109132",
+        "SUID" : 144,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -0.743411779
+      },
+      "position" : {
+        "x" : -4543.2213925037195,
+        "y" : -10074.841771518792
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "shared_name" : "HOXD10_01",
+        "name" : "HOXD10_01",
+        "SUID" : 142,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3634.29920842651,
+        "y" : 7831.4306270742145
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "shared_name" : "ENSG00000106031",
+        "name" : "ENSG00000106031",
+        "SUID" : 140,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 7.027421145
+      },
+      "position" : {
+        "x" : -4739.29727864061,
+        "y" : -10504.188073326126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "shared_name" : "AR_08",
+        "name" : "AR_08",
+        "SUID" : 139,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4769.207159576745,
+        "y" : -10569.681576991652
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "shared_name" : "CRX_Q4",
+        "name" : "CRX_Q4",
+        "SUID" : 137,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -608.4103893498454,
+        "y" : -1458.807511520814
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "shared_name" : "ENSG00000134438",
+        "name" : "ENSG00000134438",
+        "SUID" : 136,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 1.770468962
+      },
+      "position" : {
+        "x" : -714.7566326783285,
+        "y" : -1691.67330233157
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "shared_name" : "GRHL1_01",
+        "name" : "GRHL1_01",
+        "SUID" : 134,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2369.2844238476778,
+        "y" : 5061.434631180378
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "shared_name" : "ENSG00000134317",
+        "name" : "ENSG00000134317",
+        "SUID" : 133,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -3.283922891
+      },
+      "position" : {
+        "x" : 2262.9381805191947,
+        "y" : 4828.56884036962
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "shared_name" : "ENSG00000072310",
+        "name" : "ENSG00000072310",
+        "SUID" : 131,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.874175682
+      },
+      "position" : {
+        "x" : 3435.808013562842,
+        "y" : 7216.559411343091
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "shared_name" : "LXRDR4_Q3",
+        "name" : "LXRDR4_Q3",
+        "SUID" : 130,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3397.610827220787,
+        "y" : 7188.80753101544
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "shared_name" : "CARRXR_Q2",
+        "name" : "CARRXR_Q2",
+        "SUID" : 128,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4224.182662518269,
+        "y" : -9376.244399086523
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "shared_name" : "ENSG00000257923",
+        "name" : "ENSG00000257923",
+        "SUID" : 126,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 0.715841628
+      },
+      "position" : {
+        "x" : -76.6791727074301,
+        "y" : -294.47855746702953
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "shared_name" : "ZNF513_01",
+        "name" : "ZNF513_01",
+        "SUID" : 125,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -183.02541603591317,
+        "y" : -527.3443482777875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "shared_name" : "ENSG00000180035",
+        "name" : "ENSG00000180035",
+        "SUID" : 123,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 0.839168398
+      },
+      "position" : {
+        "x" : -1352.834092649227,
+        "y" : -3088.868047196107
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "shared_name" : "ENSG00000108511",
+        "name" : "ENSG00000108511",
+        "SUID" : 121,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 3.332938368
+      },
+      "position" : {
+        "x" : -1140.1416059922608,
+        "y" : -2623.1364655745947
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "shared_name" : "ZNF553_02",
+        "name" : "ZNF553_02",
+        "SUID" : 120,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1246.4878493207439,
+        "y" : -2856.002256385351
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "shared_name" : "ENSG00000180318",
+        "name" : "ENSG00000180318",
+        "SUID" : 118,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 2.264380932
+      },
+      "position" : {
+        "x" : 3350.3965083527814,
+        "y" : 7334.118262914448
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "shared_name" : "PU1_Q4",
+        "name" : "PU1_Q4",
+        "SUID" : 116,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2522.6427692625407,
+        "y" : -5650.391746114425
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "ENSG00000066336",
+        "name" : "ENSG00000066336",
+        "SUID" : 115,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.099003574
+      },
+      "position" : {
+        "x" : -2628.9890125910238,
+        "y" : -5883.257536925181
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "shared_name" : "HMGIY_Q3",
+        "name" : "HMGIY_Q3",
+        "SUID" : 113,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3586.1052025473714,
+        "y" : -7979.049654221986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "shared_name" : "ENSG00000149948",
+        "name" : "ENSG00000149948",
+        "SUID" : 112,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 4.519663871
+      },
+      "position" : {
+        "x" : -3692.4514458758545,
+        "y" : -8211.915445032742
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "shared_name" : "ENSG00000138083",
+        "name" : "ENSG00000138083",
+        "SUID" : 110,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 2.083993468
+      },
+      "position" : {
+        "x" : 3435.808013562842,
+        "y" : 7306.366382586797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "shared_name" : "SREBF1_02",
+        "name" : "SREBF1_02",
+        "SUID" : 109,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3450.398040470894,
+        "y" : 7261.462896964944
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "shared_name" : "IRX4_01",
+        "name" : "IRX4_01",
+        "SUID" : 107,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2735.335255919507,
+        "y" : -6116.123327735937
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "ENSG00000113430",
+        "name" : "ENSG00000113430",
+        "SUID" : 106,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 4.170405655
+      },
+      "position" : {
+        "x" : -2841.68149924799,
+        "y" : -6348.989118546693
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "ENSG00000165588",
+        "name" : "ENSG00000165588",
+        "SUID" : 104,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.834491613
+      },
+      "position" : {
+        "x" : 2050.2456938622295,
+        "y" : 4362.837258748108
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "shared_name" : "TCF17_04",
+        "name" : "TCF17_04",
+        "SUID" : 103,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1943.8994505337464,
+        "y" : 4129.971467937352
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "shared_name" : "ENSG00000168779",
+        "name" : "ENSG00000168779",
+        "SUID" : 101,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 4.522764802
+      },
+      "position" : {
+        "x" : -3054.373985904956,
+        "y" : -6814.720700168205
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "ETV2TBX21_03",
+        "name" : "ETV2TBX21_03",
+        "SUID" : 100,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3160.720229233439,
+        "y" : -7047.586490978962
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "PLAG1_02",
+        "name" : "PLAG1_02",
+        "SUID" : 98,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3846.9916950834754,
+        "y" : 8297.162208695727
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "shared_name" : "ENSG00000181690",
+        "name" : "ENSG00000181690",
+        "SUID" : 97,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 0.917811091
+      },
+      "position" : {
+        "x" : 3740.6454517549923,
+        "y" : 8064.296417884971
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "ALX3_01",
+        "name" : "ALX3_01",
+        "SUID" : 95,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4202.3895513032185,
+        "y" : 9162.03528707013
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "ENSG00000156150",
+        "name" : "ENSG00000156150",
+        "SUID" : 94,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 0.887876529
+      },
+      "position" : {
+        "x" : 4209.23358642112,
+        "y" : 9090.361308644866
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "MEIS1DLX2_01",
+        "name" : "MEIS1DLX2_01",
+        "SUID" : 92,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2794.669397161609,
+        "y" : 5992.897794423405
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "EAR2_Q2",
+        "name" : "EAR2_Q2",
+        "SUID" : 90,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3312.1993220107265,
+        "y" : 7306.366382586797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "shared_name" : "ENSG00000160113",
+        "name" : "ENSG00000160113",
+        "SUID" : 89,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -0.83012782
+      },
+      "position" : {
+        "x" : 3297.6092951026744,
+        "y" : 7261.462896964944
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "E2F3EOMES_01",
+        "name" : "E2F3EOMES_01",
+        "SUID" : 87,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1459.18033597771,
+        "y" : -3321.733838006863
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "ENSG00000176678",
+        "name" : "ENSG00000176678",
+        "SUID" : 85,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 3.501753072
+      },
+      "position" : {
+        "x" : 561.3982872634683,
+        "y" : 1102.716187397511
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "ERFFOXI1_02",
+        "name" : "ERFFOXI1_02",
+        "SUID" : 84,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 455.05204393498525,
+        "y" : 869.8503965867549
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "ENSG00000143257",
+        "name" : "ENSG00000143257",
+        "SUID" : 82,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -5.92167628
+      },
+      "position" : {
+        "x" : -4330.528905846753,
+        "y" : -9609.11018989728
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "PMX2B_01",
+        "name" : "PMX2B_01",
+        "SUID" : 81,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4436.8751491752355,
+        "y" : -9841.975980708035
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "ENSG00000163508",
+        "name" : "ENSG00000163508",
+        "SUID" : 79,
+        "color" : "green",
+        "selected" : false,
+        "log2FoldChange" : -1.76883858
+      },
+      "position" : {
+        "x" : -1565.526579306193,
+        "y" : -3554.5996288176193
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "LHX9_04",
+        "name" : "LHX9_04",
+        "SUID" : 78,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1671.8728226346761,
+        "y" : -3787.4654196283755
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "ENSG00000137090",
+        "name" : "ENSG00000137090",
+        "SUID" : 76,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 4.069089059
+      },
+      "position" : {
+        "x" : 774.0907739204345,
+        "y" : 1568.447769019027
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "FREAC7_01",
+        "name" : "FREAC7_01",
+        "SUID" : 75,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 667.7445305919514,
+        "y" : 1335.581978208269
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "ENSG00000115844",
+        "name" : "ENSG00000115844",
+        "SUID" : 73,
+        "color" : "red",
+        "selected" : false,
+        "log2FoldChange" : 4.665679967
+      },
+      "position" : {
+        "x" : 2688.323153833127,
+        "y" : 5760.032003612649
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "ZNF677_02",
+        "name" : "ZNF677_02",
+        "SUID" : 72,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2581.976910504644,
+        "y" : 5527.166212801891
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "292",
+        "source" : "283",
+        "target" : "146",
+        "shared_name" : "ENSG00000179456 (interacts_with) ZBTB18_01",
+        "name" : "ENSG00000179456 (interacts_with) ZBTB18_01",
+        "interaction" : "interacts_with",
+        "SUID" : 292,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "279",
+        "target" : "265",
+        "shared_name" : "ENSG00000169856 (interacts_with) ONECUT1_01",
+        "name" : "ENSG00000169856 (interacts_with) ONECUT1_01",
+        "interaction" : "interacts_with",
+        "SUID" : 289,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "278",
+        "target" : "279",
+        "shared_name" : "GCM1ELK3_01 (interacts_with) ENSG00000169856",
+        "name" : "GCM1ELK3_01 (interacts_with) ENSG00000169856",
+        "interaction" : "interacts_with",
+        "SUID" : 280,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "source" : "275",
+        "target" : "246",
+        "shared_name" : "ENSG00000163064 (interacts_with) EN1_08",
+        "name" : "ENSG00000163064 (interacts_with) EN1_08",
+        "interaction" : "interacts_with",
+        "SUID" : 276,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "272",
+        "target" : "156",
+        "shared_name" : "ENSG00000120738 (interacts_with) EGR1_12",
+        "name" : "ENSG00000120738 (interacts_with) EGR1_12",
+        "interaction" : "interacts_with",
+        "SUID" : 273,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "source" : "267",
+        "target" : "142",
+        "shared_name" : "ENSG00000128710 (interacts_with) HOXD10_01",
+        "name" : "ENSG00000128710 (interacts_with) HOXD10_01",
+        "interaction" : "interacts_with",
+        "SUID" : 268,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "source" : "265",
+        "target" : "224",
+        "shared_name" : "ONECUT1_01 (interacts_with) ENSG00000181449",
+        "name" : "ONECUT1_01 (interacts_with) ENSG00000181449",
+        "interaction" : "interacts_with",
+        "SUID" : 266,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "source" : "258",
+        "target" : "229",
+        "shared_name" : "ENSG00000110851 (interacts_with) SC1_01",
+        "name" : "ENSG00000110851 (interacts_with) SC1_01",
+        "interaction" : "interacts_with",
+        "SUID" : 264,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "255",
+        "target" : "139",
+        "shared_name" : "ENSG00000169083 (interacts_with) AR_08",
+        "name" : "ENSG00000169083 (interacts_with) AR_08",
+        "interaction" : "interacts_with",
+        "SUID" : 286,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "256",
+        "source" : "254",
+        "target" : "255",
+        "shared_name" : "SP5_Q2 (interacts_with) ENSG00000169083",
+        "name" : "SP5_Q2 (interacts_with) ENSG00000169083",
+        "interaction" : "interacts_with",
+        "SUID" : 256,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "source" : "247",
+        "target" : "254",
+        "shared_name" : "ENSG00000204335 (interacts_with) SP5_Q2",
+        "name" : "ENSG00000204335 (interacts_with) SP5_Q2",
+        "interaction" : "interacts_with",
+        "SUID" : 263,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "source" : "246",
+        "target" : "247",
+        "shared_name" : "EN1_08 (interacts_with) ENSG00000204335",
+        "name" : "EN1_08 (interacts_with) ENSG00000204335",
+        "interaction" : "interacts_with",
+        "SUID" : 248,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "242",
+        "target" : "148",
+        "shared_name" : "ENSG00000125820 (interacts_with) NKX22_02",
+        "name" : "ENSG00000125820 (interacts_with) NKX22_02",
+        "interaction" : "interacts_with",
+        "SUID" : 243,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "240",
+        "target" : "267",
+        "shared_name" : "SIX3_Q6 (interacts_with) ENSG00000128710",
+        "name" : "SIX3_Q6 (interacts_with) ENSG00000128710",
+        "interaction" : "interacts_with",
+        "SUID" : 288,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "source" : "236",
+        "target" : "103",
+        "shared_name" : "ENSG00000169131 (interacts_with) TCF17_04",
+        "name" : "ENSG00000169131 (interacts_with) TCF17_04",
+        "interaction" : "interacts_with",
+        "SUID" : 274,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "235",
+        "target" : "236",
+        "shared_name" : "FOXJ2_01 (interacts_with) ENSG00000169131",
+        "name" : "FOXJ2_01 (interacts_with) ENSG00000169131",
+        "interaction" : "interacts_with",
+        "SUID" : 237,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "233",
+        "target" : "153",
+        "shared_name" : "KROX_Q6 (interacts_with) ENSG00000125347",
+        "name" : "KROX_Q6 (interacts_with) ENSG00000125347",
+        "interaction" : "interacts_with",
+        "SUID" : 287,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "source" : "231",
+        "target" : "199",
+        "shared_name" : "ENSG00000109906 (interacts_with) PLZF_02",
+        "name" : "ENSG00000109906 (interacts_with) PLZF_02",
+        "interaction" : "interacts_with",
+        "SUID" : 232,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "source" : "229",
+        "target" : "207",
+        "shared_name" : "SC1_01 (interacts_with) ENSG00000105722",
+        "name" : "SC1_01 (interacts_with) ENSG00000105722",
+        "interaction" : "interacts_with",
+        "SUID" : 230,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "source" : "227",
+        "target" : "219",
+        "shared_name" : "RXRA_05 (interacts_with) ENSG00000163795",
+        "name" : "RXRA_05 (interacts_with) ENSG00000163795",
+        "interaction" : "interacts_with",
+        "SUID" : 262,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "source" : "226",
+        "target" : "227",
+        "shared_name" : "ENSG00000186350 (interacts_with) RXRA_05",
+        "name" : "ENSG00000186350 (interacts_with) RXRA_05",
+        "interaction" : "interacts_with",
+        "SUID" : 228,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "source" : "224",
+        "target" : "150",
+        "shared_name" : "ENSG00000181449 (interacts_with) SOX2_Q3",
+        "name" : "ENSG00000181449 (interacts_with) SOX2_Q3",
+        "interaction" : "interacts_with",
+        "SUID" : 225,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "222",
+        "target" : "283",
+        "shared_name" : "MEIS1HOXA13_01 (interacts_with) ENSG00000179456",
+        "name" : "MEIS1HOXA13_01 (interacts_with) ENSG00000179456",
+        "interaction" : "interacts_with",
+        "SUID" : 284,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "source" : "219",
+        "target" : "125",
+        "shared_name" : "ENSG00000163795 (interacts_with) ZNF513_01",
+        "name" : "ENSG00000163795 (interacts_with) ZNF513_01",
+        "interaction" : "interacts_with",
+        "SUID" : 220,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "source" : "217",
+        "target" : "78",
+        "shared_name" : "ENSG00000143355 (interacts_with) LHX9_04",
+        "name" : "ENSG00000143355 (interacts_with) LHX9_04",
+        "interaction" : "interacts_with",
+        "SUID" : 218,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "214",
+        "target" : "173",
+        "shared_name" : "ENSG00000167157 (interacts_with) S8_01",
+        "name" : "ENSG00000167157 (interacts_with) S8_01",
+        "interaction" : "interacts_with",
+        "SUID" : 291,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "source" : "212",
+        "target" : "72",
+        "shared_name" : "ENSG00000197928 (interacts_with) ZNF677_02",
+        "name" : "ENSG00000197928 (interacts_with) ZNF677_02",
+        "interaction" : "interacts_with",
+        "SUID" : 213,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "209",
+        "target" : "210",
+        "shared_name" : "ALX3_04 (interacts_with) ENSG00000165804",
+        "name" : "ALX3_04 (interacts_with) ENSG00000165804",
+        "interaction" : "interacts_with",
+        "SUID" : 211,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "207",
+        "target" : "84",
+        "shared_name" : "ENSG00000105722 (interacts_with) ERFFOXI1_02",
+        "name" : "ENSG00000105722 (interacts_with) ERFFOXI1_02",
+        "interaction" : "interacts_with",
+        "SUID" : 208,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "252",
+        "source" : "205",
+        "target" : "136",
+        "shared_name" : "TEAD4DLX2_01 (interacts_with) ENSG00000134438",
+        "name" : "TEAD4DLX2_01 (interacts_with) ENSG00000134438",
+        "interaction" : "interacts_with",
+        "SUID" : 252,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "204",
+        "target" : "205",
+        "shared_name" : "ENSG00000197905 (interacts_with) TEAD4DLX2_01",
+        "name" : "ENSG00000197905 (interacts_with) TEAD4DLX2_01",
+        "interaction" : "interacts_with",
+        "SUID" : 206,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "source" : "200",
+        "target" : "100",
+        "shared_name" : "ENSG00000073861 (interacts_with) ETV2TBX21_03",
+        "name" : "ENSG00000073861 (interacts_with) ETV2TBX21_03",
+        "interaction" : "interacts_with",
+        "SUID" : 216,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "source" : "199",
+        "target" : "200",
+        "shared_name" : "PLZF_02 (interacts_with) ENSG00000073861",
+        "name" : "PLZF_02 (interacts_with) ENSG00000073861",
+        "interaction" : "interacts_with",
+        "SUID" : 201,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "source" : "197",
+        "target" : "214",
+        "shared_name" : "CDX2_Q6 (interacts_with) ENSG00000167157",
+        "name" : "CDX2_Q6 (interacts_with) ENSG00000167157",
+        "interaction" : "interacts_with",
+        "SUID" : 215,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "195",
+        "target" : "133",
+        "shared_name" : "CRX_Q6 (interacts_with) ENSG00000134317",
+        "name" : "CRX_Q6 (interacts_with) ENSG00000134317",
+        "interaction" : "interacts_with",
+        "SUID" : 196,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "source" : "192",
+        "target" : "217",
+        "shared_name" : "HNF3_Q6_01 (interacts_with) ENSG00000143355",
+        "name" : "HNF3_Q6_01 (interacts_with) ENSG00000143355",
+        "interaction" : "interacts_with",
+        "SUID" : 244,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "190",
+        "target" : "167",
+        "shared_name" : "ENSG00000124813 (interacts_with) AML_Q6",
+        "name" : "ENSG00000124813 (interacts_with) AML_Q6",
+        "interaction" : "interacts_with",
+        "SUID" : 194,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "188",
+        "target" : "242",
+        "shared_name" : "HTF_01 (interacts_with) ENSG00000125820",
+        "name" : "HTF_01 (interacts_with) ENSG00000125820",
+        "interaction" : "interacts_with",
+        "SUID" : 282,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "187",
+        "target" : "188",
+        "shared_name" : "ENSG00000100219 (interacts_with) HTF_01",
+        "name" : "ENSG00000100219 (interacts_with) HTF_01",
+        "interaction" : "interacts_with",
+        "SUID" : 189,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "185",
+        "target" : "197",
+        "shared_name" : "ENSG00000165556 (interacts_with) CDX2_Q6",
+        "name" : "ENSG00000165556 (interacts_with) CDX2_Q6",
+        "interaction" : "interacts_with",
+        "SUID" : 198,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "183",
+        "target" : "106",
+        "shared_name" : "SHOX2_01 (interacts_with) ENSG00000113430",
+        "name" : "SHOX2_01 (interacts_with) ENSG00000113430",
+        "interaction" : "interacts_with",
+        "SUID" : 184,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "181",
+        "target" : "278",
+        "shared_name" : "ENSG00000137270 (interacts_with) GCM1ELK3_01",
+        "name" : "ENSG00000137270 (interacts_with) GCM1ELK3_01",
+        "interaction" : "interacts_with",
+        "SUID" : 290,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "180",
+        "target" : "181",
+        "shared_name" : "DMRT1_01 (interacts_with) ENSG00000137270",
+        "name" : "DMRT1_01 (interacts_with) ENSG00000137270",
+        "interaction" : "interacts_with",
+        "SUID" : 182,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "source" : "178",
+        "target" : "258",
+        "shared_name" : "CDP_Q6_01 (interacts_with) ENSG00000110851",
+        "name" : "CDP_Q6_01 (interacts_with) ENSG00000110851",
+        "interaction" : "interacts_with",
+        "SUID" : 259,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "176",
+        "target" : "94",
+        "shared_name" : "BARX2_01 (interacts_with) ENSG00000156150",
+        "name" : "BARX2_01 (interacts_with) ENSG00000156150",
+        "interaction" : "interacts_with",
+        "SUID" : 277,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "174",
+        "target" : "176",
+        "shared_name" : "ENSG00000043039 (interacts_with) BARX2_01",
+        "name" : "ENSG00000043039 (interacts_with) BARX2_01",
+        "interaction" : "interacts_with",
+        "SUID" : 177,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "173",
+        "target" : "174",
+        "shared_name" : "S8_01 (interacts_with) ENSG00000043039",
+        "name" : "S8_01 (interacts_with) ENSG00000043039",
+        "interaction" : "interacts_with",
+        "SUID" : 175,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "171",
+        "target" : "272",
+        "shared_name" : "PEG3_02 (interacts_with) ENSG00000120738",
+        "name" : "PEG3_02 (interacts_with) ENSG00000120738",
+        "interaction" : "interacts_with",
+        "SUID" : 281,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "170",
+        "target" : "171",
+        "shared_name" : "ENSG00000198300 (interacts_with) PEG3_02",
+        "name" : "ENSG00000198300 (interacts_with) PEG3_02",
+        "interaction" : "interacts_with",
+        "SUID" : 172,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "168",
+        "target" : "233",
+        "shared_name" : "ENSG00000135625 (interacts_with) KROX_Q6",
+        "name" : "ENSG00000135625 (interacts_with) KROX_Q6",
+        "interaction" : "interacts_with",
+        "SUID" : 234,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "167",
+        "target" : "168",
+        "shared_name" : "AML_Q6 (interacts_with) ENSG00000135625",
+        "name" : "AML_Q6 (interacts_with) ENSG00000135625",
+        "interaction" : "interacts_with",
+        "SUID" : 169,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "163",
+        "target" : "110",
+        "shared_name" : "CART1_01 (interacts_with) ENSG00000138083",
+        "name" : "CART1_01 (interacts_with) ENSG00000138083",
+        "interaction" : "interacts_with",
+        "SUID" : 270,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "161",
+        "target" : "204",
+        "shared_name" : "HOXB6_01 (interacts_with) ENSG00000197905",
+        "name" : "HOXB6_01 (interacts_with) ENSG00000197905",
+        "interaction" : "interacts_with",
+        "SUID" : 251,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "source" : "159",
+        "target" : "130",
+        "shared_name" : "ENSG00000025434 (interacts_with) LXRDR4_Q3",
+        "name" : "ENSG00000025434 (interacts_with) LXRDR4_Q3",
+        "interaction" : "interacts_with",
+        "SUID" : 271,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "157",
+        "target" : "192",
+        "shared_name" : "ENSG00000170608 (interacts_with) HNF3_Q6_01",
+        "name" : "ENSG00000170608 (interacts_with) HNF3_Q6_01",
+        "interaction" : "interacts_with",
+        "SUID" : 193,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "156",
+        "target" : "157",
+        "shared_name" : "EGR1_12 (interacts_with) ENSG00000170608",
+        "name" : "EGR1_12 (interacts_with) ENSG00000170608",
+        "interaction" : "interacts_with",
+        "SUID" : 158,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "154",
+        "target" : "89",
+        "shared_name" : "IRF1_05 (interacts_with) ENSG00000160113",
+        "name" : "IRF1_05 (interacts_with) ENSG00000160113",
+        "interaction" : "interacts_with",
+        "SUID" : 245,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "154",
+        "target" : "159",
+        "shared_name" : "IRF1_05 (interacts_with) ENSG00000025434",
+        "name" : "IRF1_05 (interacts_with) ENSG00000025434",
+        "interaction" : "interacts_with",
+        "SUID" : 160,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "153",
+        "target" : "154",
+        "shared_name" : "ENSG00000125347 (interacts_with) IRF1_05",
+        "name" : "ENSG00000125347 (interacts_with) IRF1_05",
+        "interaction" : "interacts_with",
+        "SUID" : 155,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "source" : "151",
+        "target" : "235",
+        "shared_name" : "ENSG00000065970 (interacts_with) FOXJ2_01",
+        "name" : "ENSG00000065970 (interacts_with) FOXJ2_01",
+        "interaction" : "interacts_with",
+        "SUID" : 260,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "150",
+        "target" : "151",
+        "shared_name" : "SOX2_Q3 (interacts_with) ENSG00000065970",
+        "name" : "SOX2_Q3 (interacts_with) ENSG00000065970",
+        "interaction" : "interacts_with",
+        "SUID" : 152,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "148",
+        "target" : "112",
+        "shared_name" : "NKX22_02 (interacts_with) ENSG00000149948",
+        "name" : "NKX22_02 (interacts_with) ENSG00000149948",
+        "interaction" : "interacts_with",
+        "SUID" : 149,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "146",
+        "target" : "144",
+        "shared_name" : "ZBTB18_01 (interacts_with) ENSG00000109132",
+        "name" : "ZBTB18_01 (interacts_with) ENSG00000109132",
+        "interaction" : "interacts_with",
+        "SUID" : 147,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "144",
+        "target" : "81",
+        "shared_name" : "ENSG00000109132 (interacts_with) PMX2B_01",
+        "name" : "ENSG00000109132 (interacts_with) PMX2B_01",
+        "interaction" : "interacts_with",
+        "SUID" : 145,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "142",
+        "target" : "97",
+        "shared_name" : "HOXD10_01 (interacts_with) ENSG00000181690",
+        "name" : "HOXD10_01 (interacts_with) ENSG00000181690",
+        "interaction" : "interacts_with",
+        "SUID" : 143,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "source" : "140",
+        "target" : "222",
+        "shared_name" : "ENSG00000106031 (interacts_with) MEIS1HOXA13_01",
+        "name" : "ENSG00000106031 (interacts_with) MEIS1HOXA13_01",
+        "interaction" : "interacts_with",
+        "SUID" : 223,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "139",
+        "target" : "140",
+        "shared_name" : "AR_08 (interacts_with) ENSG00000106031",
+        "name" : "AR_08 (interacts_with) ENSG00000106031",
+        "interaction" : "interacts_with",
+        "SUID" : 141,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "137",
+        "target" : "226",
+        "shared_name" : "CRX_Q4 (interacts_with) ENSG00000186350",
+        "name" : "CRX_Q4 (interacts_with) ENSG00000186350",
+        "interaction" : "interacts_with",
+        "SUID" : 285,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "136",
+        "target" : "137",
+        "shared_name" : "ENSG00000134438 (interacts_with) CRX_Q4",
+        "name" : "ENSG00000134438 (interacts_with) CRX_Q4",
+        "interaction" : "interacts_with",
+        "SUID" : 138,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "source" : "134",
+        "target" : "212",
+        "shared_name" : "GRHL1_01 (interacts_with) ENSG00000197928",
+        "name" : "GRHL1_01 (interacts_with) ENSG00000197928",
+        "interaction" : "interacts_with",
+        "SUID" : 221,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "133",
+        "target" : "134",
+        "shared_name" : "ENSG00000134317 (interacts_with) GRHL1_01",
+        "name" : "ENSG00000134317 (interacts_with) GRHL1_01",
+        "interaction" : "interacts_with",
+        "SUID" : 135,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "source" : "131",
+        "target" : "109",
+        "shared_name" : "ENSG00000072310 (interacts_with) SREBF1_02",
+        "name" : "ENSG00000072310 (interacts_with) SREBF1_02",
+        "interaction" : "interacts_with",
+        "SUID" : 261,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "130",
+        "target" : "131",
+        "shared_name" : "LXRDR4_Q3 (interacts_with) ENSG00000072310",
+        "name" : "LXRDR4_Q3 (interacts_with) ENSG00000072310",
+        "interaction" : "interacts_with",
+        "SUID" : 132,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "source" : "128",
+        "target" : "187",
+        "shared_name" : "CARRXR_Q2 (interacts_with) ENSG00000100219",
+        "name" : "CARRXR_Q2 (interacts_with) ENSG00000100219",
+        "interaction" : "interacts_with",
+        "SUID" : 249,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "126",
+        "target" : "178",
+        "shared_name" : "ENSG00000257923 (interacts_with) CDP_Q6_01",
+        "name" : "ENSG00000257923 (interacts_with) CDP_Q6_01",
+        "interaction" : "interacts_with",
+        "SUID" : 179,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "125",
+        "target" : "126",
+        "shared_name" : "ZNF513_01 (interacts_with) ENSG00000257923",
+        "name" : "ZNF513_01 (interacts_with) ENSG00000257923",
+        "interaction" : "interacts_with",
+        "SUID" : 127,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "123",
+        "target" : "120",
+        "shared_name" : "ENSG00000180035 (interacts_with) ZNF553_02",
+        "name" : "ENSG00000180035 (interacts_with) ZNF553_02",
+        "interaction" : "interacts_with",
+        "SUID" : 239,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "121",
+        "target" : "161",
+        "shared_name" : "ENSG00000108511 (interacts_with) HOXB6_01",
+        "name" : "ENSG00000108511 (interacts_with) HOXB6_01",
+        "interaction" : "interacts_with",
+        "SUID" : 162,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "source" : "120",
+        "target" : "121",
+        "shared_name" : "ZNF553_02 (interacts_with) ENSG00000108511",
+        "name" : "ZNF553_02 (interacts_with) ENSG00000108511",
+        "interaction" : "interacts_with",
+        "SUID" : 122,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "118",
+        "target" : "163",
+        "shared_name" : "ENSG00000180318 (interacts_with) CART1_01",
+        "name" : "ENSG00000180318 (interacts_with) CART1_01",
+        "interaction" : "interacts_with",
+        "SUID" : 164,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "source" : "116",
+        "target" : "170",
+        "shared_name" : "PU1_Q4 (interacts_with) ENSG00000198300",
+        "name" : "PU1_Q4 (interacts_with) ENSG00000198300",
+        "interaction" : "interacts_with",
+        "SUID" : 293,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "source" : "115",
+        "target" : "116",
+        "shared_name" : "ENSG00000066336 (interacts_with) PU1_Q4",
+        "name" : "ENSG00000066336 (interacts_with) PU1_Q4",
+        "interaction" : "interacts_with",
+        "SUID" : 117,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "source" : "113",
+        "target" : "231",
+        "shared_name" : "HMGIY_Q3 (interacts_with) ENSG00000109906",
+        "name" : "HMGIY_Q3 (interacts_with) ENSG00000109906",
+        "interaction" : "interacts_with",
+        "SUID" : 250,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "source" : "112",
+        "target" : "113",
+        "shared_name" : "ENSG00000149948 (interacts_with) HMGIY_Q3",
+        "name" : "ENSG00000149948 (interacts_with) HMGIY_Q3",
+        "interaction" : "interacts_with",
+        "SUID" : 114,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "110",
+        "target" : "240",
+        "shared_name" : "ENSG00000138083 (interacts_with) SIX3_Q6",
+        "name" : "ENSG00000138083 (interacts_with) SIX3_Q6",
+        "interaction" : "interacts_with",
+        "SUID" : 241,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "source" : "109",
+        "target" : "110",
+        "shared_name" : "SREBF1_02 (interacts_with) ENSG00000138083",
+        "name" : "SREBF1_02 (interacts_with) ENSG00000138083",
+        "interaction" : "interacts_with",
+        "SUID" : 111,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "107",
+        "target" : "115",
+        "shared_name" : "IRX4_01 (interacts_with) ENSG00000066336",
+        "name" : "IRX4_01 (interacts_with) ENSG00000066336",
+        "interaction" : "interacts_with",
+        "SUID" : 202,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "106",
+        "target" : "107",
+        "shared_name" : "ENSG00000113430 (interacts_with) IRX4_01",
+        "name" : "ENSG00000113430 (interacts_with) IRX4_01",
+        "interaction" : "interacts_with",
+        "SUID" : 108,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "source" : "104",
+        "target" : "195",
+        "shared_name" : "ENSG00000165588 (interacts_with) CRX_Q6",
+        "name" : "ENSG00000165588 (interacts_with) CRX_Q6",
+        "interaction" : "interacts_with",
+        "SUID" : 238,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "103",
+        "target" : "104",
+        "shared_name" : "TCF17_04 (interacts_with) ENSG00000165588",
+        "name" : "TCF17_04 (interacts_with) ENSG00000165588",
+        "interaction" : "interacts_with",
+        "SUID" : 105,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "source" : "101",
+        "target" : "183",
+        "shared_name" : "ENSG00000168779 (interacts_with) SHOX2_01",
+        "name" : "ENSG00000168779 (interacts_with) SHOX2_01",
+        "interaction" : "interacts_with",
+        "SUID" : 269,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "source" : "100",
+        "target" : "101",
+        "shared_name" : "ETV2TBX21_03 (interacts_with) ENSG00000168779",
+        "name" : "ETV2TBX21_03 (interacts_with) ENSG00000168779",
+        "interaction" : "interacts_with",
+        "SUID" : 102,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "98",
+        "target" : "185",
+        "shared_name" : "PLAG1_02 (interacts_with) ENSG00000165556",
+        "name" : "PLAG1_02 (interacts_with) ENSG00000165556",
+        "interaction" : "interacts_with",
+        "SUID" : 186,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "97",
+        "target" : "98",
+        "shared_name" : "ENSG00000181690 (interacts_with) PLAG1_02",
+        "name" : "ENSG00000181690 (interacts_with) PLAG1_02",
+        "interaction" : "interacts_with",
+        "SUID" : 99,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "95",
+        "target" : "165",
+        "shared_name" : "ALX3_01 (interacts_with) ENSG00000152977",
+        "name" : "ALX3_01 (interacts_with) ENSG00000152977",
+        "interaction" : "interacts_with",
+        "SUID" : 166,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "253",
+        "source" : "94",
+        "target" : "209",
+        "shared_name" : "ENSG00000156150 (interacts_with) ALX3_04",
+        "name" : "ENSG00000156150 (interacts_with) ALX3_04",
+        "interaction" : "interacts_with",
+        "SUID" : 253,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "source" : "94",
+        "target" : "95",
+        "shared_name" : "ENSG00000156150 (interacts_with) ALX3_01",
+        "name" : "ENSG00000156150 (interacts_with) ALX3_01",
+        "interaction" : "interacts_with",
+        "SUID" : 96,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "92",
+        "target" : "190",
+        "shared_name" : "MEIS1DLX2_01 (interacts_with) ENSG00000124813",
+        "name" : "MEIS1DLX2_01 (interacts_with) ENSG00000124813",
+        "interaction" : "interacts_with",
+        "SUID" : 191,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "source" : "90",
+        "target" : "118",
+        "shared_name" : "EAR2_Q2 (interacts_with) ENSG00000180318",
+        "name" : "EAR2_Q2 (interacts_with) ENSG00000180318",
+        "interaction" : "interacts_with",
+        "SUID" : 119,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "source" : "89",
+        "target" : "90",
+        "shared_name" : "ENSG00000160113 (interacts_with) EAR2_Q2",
+        "name" : "ENSG00000160113 (interacts_with) EAR2_Q2",
+        "interaction" : "interacts_with",
+        "SUID" : 91,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "87",
+        "target" : "123",
+        "shared_name" : "E2F3EOMES_01 (interacts_with) ENSG00000180035",
+        "name" : "E2F3EOMES_01 (interacts_with) ENSG00000180035",
+        "interaction" : "interacts_with",
+        "SUID" : 124,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "source" : "85",
+        "target" : "75",
+        "shared_name" : "ENSG00000176678 (interacts_with) FREAC7_01",
+        "name" : "ENSG00000176678 (interacts_with) FREAC7_01",
+        "interaction" : "interacts_with",
+        "SUID" : 203,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "source" : "84",
+        "target" : "85",
+        "shared_name" : "ERFFOXI1_02 (interacts_with) ENSG00000176678",
+        "name" : "ERFFOXI1_02 (interacts_with) ENSG00000176678",
+        "interaction" : "interacts_with",
+        "SUID" : 86,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "82",
+        "target" : "128",
+        "shared_name" : "ENSG00000143257 (interacts_with) CARRXR_Q2",
+        "name" : "ENSG00000143257 (interacts_with) CARRXR_Q2",
+        "interaction" : "interacts_with",
+        "SUID" : 129,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "source" : "81",
+        "target" : "82",
+        "shared_name" : "PMX2B_01 (interacts_with) ENSG00000143257",
+        "name" : "PMX2B_01 (interacts_with) ENSG00000143257",
+        "interaction" : "interacts_with",
+        "SUID" : 83,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "source" : "79",
+        "target" : "87",
+        "shared_name" : "ENSG00000163508 (interacts_with) E2F3EOMES_01",
+        "name" : "ENSG00000163508 (interacts_with) E2F3EOMES_01",
+        "interaction" : "interacts_with",
+        "SUID" : 88,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "source" : "78",
+        "target" : "79",
+        "shared_name" : "LHX9_04 (interacts_with) ENSG00000163508",
+        "name" : "LHX9_04 (interacts_with) ENSG00000163508",
+        "interaction" : "interacts_with",
+        "SUID" : 80,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "257",
+        "source" : "76",
+        "target" : "180",
+        "shared_name" : "ENSG00000137090 (interacts_with) DMRT1_01",
+        "name" : "ENSG00000137090 (interacts_with) DMRT1_01",
+        "interaction" : "interacts_with",
+        "SUID" : 257,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "source" : "75",
+        "target" : "76",
+        "shared_name" : "FREAC7_01 (interacts_with) ENSG00000137090",
+        "name" : "FREAC7_01 (interacts_with) ENSG00000137090",
+        "interaction" : "interacts_with",
+        "SUID" : 77,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "source" : "73",
+        "target" : "92",
+        "shared_name" : "ENSG00000115844 (interacts_with) MEIS1DLX2_01",
+        "name" : "ENSG00000115844 (interacts_with) MEIS1DLX2_01",
+        "interaction" : "interacts_with",
+        "SUID" : 93,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "source" : "72",
+        "target" : "73",
+        "shared_name" : "ZNF677_02 (interacts_with) ENSG00000115844",
+        "name" : "ZNF677_02 (interacts_with) ENSG00000115844",
+        "interaction" : "interacts_with",
+        "SUID" : 74,
+        "shared_interaction" : "interacts_with",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
