@@ -9,9 +9,14 @@ output = {}
 output["nodes"]=[]
 nodes = data["nodes"]
 
+repeat = 8
+
+##names = file("data/gene_names.txt","w")
 for i in xrange(0,len(nodes)):
-    for n in xrange(0,7):
-        idx = (n)+7*i
+    ##if "ENSG" in nodes[i]["data"]["name"]:
+        ##names.write(nodes[i]["data"]["name"]+"\n")
+    for n in xrange(0,repeat):
+        idx = (n)+repeat*i
         output["nodes"].append({})
         output["nodes"][idx]["data"]={}
         output["nodes"][idx]["data"]["id"]=str(n)+"_"+nodes[i]["data"]["name"]
@@ -25,8 +30,8 @@ output["edges"]=[]
 
 
 for i in xrange(0,len(edges)):
-    for n in xrange(0,7):
-        idx = (n)+7*i
+    for n in xrange(0,repeat):
+        idx = (n)+repeat*i
         infos = edges[i]["data"]["shared_name"].split()
         output["edges"].append({})
         output["edges"][idx]["data"]={}
