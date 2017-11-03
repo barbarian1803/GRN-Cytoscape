@@ -60,6 +60,26 @@ function buildCytoscape(json){
 			'background-color':'#DBDB16',
 			'z-index':999
 		})
+		.selector('.upreg1')	// 0.65 < lfc < 1
+		.css({
+			'background-color':'#ff5900',
+			'z-index':999
+		})
+		.selector('.upreg2')	// lfc > 1
+		.css({
+			'background-color':'#ff0000',
+			'z-index':999
+		})
+		.selector('.downreg1') 	// -1 < lfc < -0.65
+		.css({
+			'background-color':'#81ff35',
+			'z-index':999
+		})
+		.selector('.downreg2')	// lfc < -1
+		.css({
+			'background-color':'#13a32d',
+			'z-index':999
+		})
 		.selector('.hidden')
 		.css({
 			'display':'none'

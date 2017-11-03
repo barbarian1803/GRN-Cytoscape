@@ -36,13 +36,18 @@ $('#colorNode').on('click', function(e){
 		if(s.data()["logFC"]==undefined){
 			return;
 		}
-		if(s.data()["logFC"]>0.65){
-			s.addClass("upreg")
+		if(s.data()["logFC"] > 1){
+			s.addClass("upreg2");
+		}else if(s.data()["logFC"] > 0.65){
+			s.addClass("upreg1");
 		}
-		if(s.data()["logFC"]<-0.65){
-			s.addClass("downreg")
+		
+		if(s.data()["logFC"] < -1){
+			s.addClass("downreg2");
+		}else if(s.data()["logFC"] < -0.65){
+			s.addClass("downreg1");
 		}
-	});
+ 	});
 });
 
 function readLogFCFile(response){
